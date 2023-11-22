@@ -6,3 +6,4 @@ E:\LuuDuLieuSinhVien\LuuThuyMinhNhat_2033210404_CN.Net\bai2\bin\Debug\bai2.exe
 E:\LuuDuLieuSinhVien\LuuThuyMinhNhat_2033210404_CN.Net\bai2\bin\Debug\bai2.pdb
 E:\LuuDuLieuSinhVien\LuuThuyMinhNhat_2033210404_CN.Net\bai2\obj\Debug\bai2.exe
 E:\LuuDuLieuSinhVien\LuuThuyMinhNhat_2033210404_CN.Net\bai2\obj\Debug\bai2.pdb
+E:\LuuDuLieuSinhVien\LuuThuyMinhNhat_2033210404_CN.Net\bai2\obj\Debug\bai2.csprojResolveAssemblyReference.cache

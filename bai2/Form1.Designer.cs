@@ -87,7 +87,6 @@
             this.rbC.TabStop = true;
             this.rbC.Text = "C";
             this.rbC.UseVisualStyleBackColor = true;
-           // this.rbC.CheckedChanged += new System.EventHandler(this.rdC_CheckedChanged);
             // 
             // rbD
             // 
@@ -99,6 +98,7 @@
             this.rbD.TabStop = true;
             this.rbD.Text = "D";
             this.rbD.UseVisualStyleBackColor = true;
+            //this.rbD.CheckedChanged += new System.EventHandler(this.rbD_CheckedChanged);
             // 
             // Form1
             // 
@@ -113,7 +113,6 @@
             this.Controls.Add(this.label1);
             this.Name = "Form1";
             this.Text = "Form1";
-           // this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

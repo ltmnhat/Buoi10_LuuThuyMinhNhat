@@ -85,7 +85,6 @@ namespace buoi10
 
         }
     }
-
     public class CauHoi
     {
         public string NoiDung { get; set; }
